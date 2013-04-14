@@ -1,7 +1,7 @@
 mask
 ====
 
-The styling layer.
+The style layer.
 
 *See [mask readme] [1] in the docs mask docs subfolder.*
 [1]: ../../../docs/blob/master/mask/README.md "mask readme"
